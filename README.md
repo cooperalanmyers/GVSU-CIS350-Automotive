@@ -1,12 +1,10 @@
-# Team Name
-Automotive
-
-Project description (~1 paragraph)
+# Automotive
+Our team is working on creating a tilt-compensated compass with a raspberry pi. Our appliation is in the automotive field for a cars navigation.
 
 ## Team Members and Roles
 
-* [Cooper Myers](https://github.com/cooperalanmyers/CIS350-HW2-Myers)
-* [Jacob Neiheisel](https://github.com/jneiheisel98/CIS350-HW2-Neiheisel)2 (Role 3, Role 4)
+* [Cooper Myers](https://github.com/cooperalanmyers/CIS350-HW2-Myers)(Programmer)
+* [Jacob Neiheisel](https://github.com/jneiheisel98/CIS350-HW2-Neiheisel)(Programmer)
 
 ## Prerequisites
 
