@@ -11,20 +11,18 @@ Jacob
 (In 2-4 paragraphs, describe your project concept)
 
 # Anticipated Technologies
-
-(What technologies are needed to build this project)
 Raspberry Pi 3 Model B+
-
+Inertial Measurement Units
+2 Seven Segment LED Displays
 
 # Method/Approach
-
-(What is your estimated "plan of attack" for developing this project)
+We are going for a hands on plan of attack, with lots of research and thought before fully diving in. After learning the Pi we will be able to build.
 
 # Estimated Timeline
-
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
+Week 2 - Pi is up and running (system is good), no major bugs that would prevent Pi exclusively from working
+Week 4 - Ensure read/save data from IMU on Pi card (so that all forces are known and we can determine if one part or another is faulty)
+Week 6 - Take data and transform it to compass reading/heading
 
 # Anticipated Problems
-Learning how to program a Raspberry Pi
-
-(Describe any problems you foresee that you will need to overcome)
+Raspberry Pi programming and firmware
+Library searching for the IMU
