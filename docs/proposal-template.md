@@ -10,8 +10,9 @@ Jacob
 
 # Introduction
 
+Our team Automotive is working on creating a tilt-compensated compass. We will be using a Raspberry Pi with an IMU and two LED displays. We will have to start by configuring our Pi and familiarizing ourselves with the technology. Then, we will read input telling us the direction and degree of rotation and print that into our display. From there, we will implement the factor of tilt with a reading on our other display. 
 
-(In 2-4 paragraphs, describe your project concept)
+This project will require extra participation as we only have two members, being Jacob and Cooper. We plan on communicating via Discord and sharing our progress by frequently updating our GitHub Repository. As most of our learning/thinking can be completed remotely, we will have to meet up in order to physically create and test our project.
 
 # Anticipated Technologies
 Raspberry Pi 3 Model B+
