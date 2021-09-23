@@ -3,7 +3,9 @@ Team name:
 Automotive
 
 Team members:
+
 Cooper
+
 Jacob
 
 # Introduction
