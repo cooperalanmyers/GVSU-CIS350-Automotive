@@ -1,8 +1,10 @@
 Team name:
+
 Automotive
 
 Team members:
-Cooper & Jacob
+Cooper
+Jacob
 
 # Introduction
 
