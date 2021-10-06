@@ -8,8 +8,9 @@
 	4. When power is turned on/off LED screen shall accordingly coordinate on/off.
 	5. Our data shall react appropriately to the magnet.
 	6. Data recorded should be delimited by spaces or commas.
-	7. When titled on x and y, and not z, reading shall be same/similar
-	8. Language to decode document and display info somehow
+	7. When titled on x and y, and not z, reading shall be same/similar.
+	8. Language to decode document and display info.
+	9. Feature showing N E S W directions.
 
 2. Axis Diagnostics
 	1. Tilt-compensated compass shall separately record and display roll (x), pitch (y), and heading (z) axes.
