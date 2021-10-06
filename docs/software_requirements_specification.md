@@ -5,6 +5,8 @@
 	1. Tilt-compensated compass shall record session data to an SD card or text file
 	2. Tilt-compensated compass shall be stabilized on a level surface.
 	3. Tilt-compensated compass shall have capability to record both compensated and uncompensated heading.
+	4. When power is turned on/off LED screen shall accordingly coordinate on/off.
+	5. Our data shall react appropriately to the magnet.
 2. Axis Diagnostics
 	1. Tilt-compensated compass shall separately record and display roll (x), pitch (y), and heading (z) axes.
 3. Axis Logistics.
@@ -12,11 +14,22 @@
 
  
 # Non-Functional Requirements
-1. Overall System/Interface
-	1. Compass’ user interface shall be simple to use.
+1. System Expectations
+	1. Compass shall be quiet to use.
 	2. Calculation of values shall have a response time under 2 seconds.
-	3. Compass shall operate in environments 50-80 degrees.
+	3. Compass shall have 5v maximum of power.
 	4. Records shall be in a text file for easy parsing of information.
-	5. Interface or separate user-input method shall be given conditions and output only the tilt-compensated value.
+	5. Separate user-input method shall be given conditions and output only the tilt-compensated value.
+2. Coding
+	1. Program shall be written in Python.
+	2. Updates shall be pushed/pulled using GitHub.
+	3. Comments throughout code shall explain our logic accurately.
 2. Output Logistics
 	1. Seven segment displays shall display numbers between 00 and 35.
+	2. When calibrating a message shall appear.
+	3. When turned on a welcome message shall print.
+	4. Compass' user interface shall be simple to read.
+3. Portability
+	1. Compass shall operate in environments 50-80 degrees Farenheit.
+	2. Entire project shall be easily used with a single hand.
+	3. Compass shall be under five pounds in total weight.
