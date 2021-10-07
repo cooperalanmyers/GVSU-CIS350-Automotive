@@ -14,9 +14,10 @@
 	10. Program shall have a linear runtime.
 	11. Compass shall not crash when moved super fast.
 	12. LED shall light up when running.
-
 2. Axis Diagnostics
-	1. Tilt-compensated compass shall separately record and display roll (x), pitch (y), and heading (z) axes.
+	1. Tilt-compensated compass shall record and display roll (x).
+	2. Tilt-compensated compass shall record and display pitch (y).
+	3. Tilt-compensated compass shall record and display heading (z).
 3. Axis Logistics.
 	1. When tilted, tilt-compensated compass Z-axis shall alter in value.
  
