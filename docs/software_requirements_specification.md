@@ -5,7 +5,8 @@
 	1. Tilt-compensated compass shall record session data to an SD card or text file
 	2. Tilt-compensated compass shall be stabilized on a level surface.
 	3. Tilt-compensated compass shall have capability to record both compensated and uncompensated heading.
-	4. When power is turned on/off LED screen shall accordingly coordinate on/off.
+2. Various Implementations
+ 	4. When power is turned on/off LED screen shall accordingly coordinate on/off.
 	5. Our data shall react appropriately to the magnet.
 	6. Data recorded shall be delimited by spaces or commas.
 	7. When titled on x and y, and not z, reading shall be same/similar.
@@ -14,11 +15,11 @@
 	10. Program shall have a linear runtime.
 	11. Compass shall not crash when moved super fast.
 	12. LED shall light up when running.
-2. Axis Diagnostics
+3. Axis Diagnostics
 	1. Tilt-compensated compass shall record and display roll (x).
 	2. Tilt-compensated compass shall record and display pitch (y).
 	3. Tilt-compensated compass shall record and display heading (z).
-3. Axis Logistics.
+4. Axis Logistics.
 	1. When tilted, tilt-compensated compass Z-axis shall alter in value.
  
 # Non-Functional Requirements
