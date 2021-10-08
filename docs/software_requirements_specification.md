@@ -6,15 +6,15 @@
 	2. Tilt-compensated compass shall be stabilized on a level surface.
 	3. Tilt-compensated compass shall have capability to record both compensated and uncompensated heading.
 2. Various Implementations
- 	4. When power is turned on/off LED screen shall accordingly coordinate on/off.
-	5. Our data shall react appropriately to the magnet.
-	6. Data recorded shall be delimited by spaces or commas.
-	7. When titled on x and y, and not z, reading shall be same/similar.
-	8. Language shall decode document and display info.
-	9. Feature shall show N E S W directions.
-	10. Program shall have a linear runtime.
-	11. Compass shall not crash when moved super fast.
-	12. LED shall light up when running.
+ 	1. When power is turned on/off LED screen shall accordingly coordinate on/off.
+	2. Our data shall react appropriately to the magnet.
+	3. Data recorded shall be delimited by spaces or commas.
+	4. When titled on x and y, and not z, reading shall be same/similar.
+	5. Language shall decode document and display info.
+	6. Feature shall show N E S W directions.
+	7. Program shall have a linear runtime.
+	8. Compass shall not crash when moved super fast.
+	9. LED shall light up when running.
 3. Axis Diagnostics
 	1. Tilt-compensated compass shall record and display roll (x).
 	2. Tilt-compensated compass shall record and display pitch (y).
