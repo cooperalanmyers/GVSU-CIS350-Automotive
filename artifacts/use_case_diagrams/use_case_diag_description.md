@@ -6,5 +6,5 @@
 	2. The user calibrates the tilt-compensated compass on flat surface.
 	3. The user then rotates the tilt-compensated compass along the z-axis.
 	4. The user should see the numbers displayed on 7 segment increase or decrease according to 	tilt.
-- Cross references: Requirements on tilt of x, y, x and y axes with the z axis.
+- Cross references: FR2.IV, FR3.I, FR3.II, FR3.III, FR4.I, NFR3.I
 - Use cases: User must have turned on & calibrated the system to work. 
