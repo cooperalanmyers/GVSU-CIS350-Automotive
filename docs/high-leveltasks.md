@@ -22,6 +22,10 @@
 * Get the seven segment display/display wired to the Pi by breadboard.
 * Complete by 27 October 2021
 * Cooper Myers, Jacob Neiheisel
+### Program Skeleton
+* Creating a base program with our necessary methods drafted.
+* Complete by 10 November 2021
+* Cooper Myers, Jacob Neiheisel
 ### Efficient Calibration
 * After placing system on a flat surface calibrating heading, pitch, and roll.
 * Complete by 15 November 2021
@@ -30,9 +34,13 @@
 * Being able to compute compass heading given all data.
 * Complete by 15 November 2021
 * Cooper Myers, Jacob Neiheisel
+### Working Program
+* Our program will have enough functionality that we are able to use it.
+* Complete by 20 November 2021
+* Cooper Myers, Jacob Neiheisel
 ### Have output displays display information useful for the compass
 * Display heading, tilt, other rotations on the displays.
-* Complete by 15 November 2021
+* Complete by 22 November 2021
 * Cooper Myers, Jacob Neiheisel
 ### Reduce Output Errors
 * Before thoroughly testing, making sure our data is presentable.
