@@ -34,6 +34,10 @@
 * Display heading, tilt, other rotations on the displays.
 * Complete by 15 November 2021
 * Cooper Myers, Jacob Neiheisel
+### Reduce Output Errors
+* Before thoroughly testing, making sure our data is presentable.
+* Complete by 1 December 2021
+* Cooper Myers, Jacob Neiheisel
 ### Testing and input validation
 * Test every possible aspect of the system for accuracy and anomolies.
 * Complete by 10 December 2021
