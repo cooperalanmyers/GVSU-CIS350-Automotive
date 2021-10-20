@@ -37,7 +37,7 @@
 ### Reduce Output Errors
 * Before thoroughly testing, making sure our data is presentable.
 * Complete by 1 December 2021
-* Cooper Myers, Jacob Neiheisel
+* Cooper Myers
 ### Testing and input validation
 * Test every possible aspect of the system for accuracy and anomolies.
 * Complete by 10 December 2021
