@@ -2,7 +2,11 @@
 ## Tasks completed
 ### Materials Procurement
 * Get Pi, IMU, power supply, and needed peripherals.
-* Complete by end September
+* Completed by end September
+* People responsible: Cooper Myers, Jacob Neiheisel
+### System Research
+* Understanding how our components work together from the hardware aspect.
+* Completed by end September
 * People responsible: Cooper Myers, Jacob Neiheisel
 ## Tasks in progress
 ### Configure Pi to configuration needed
@@ -14,7 +18,7 @@
 * Be able to read IMU data on Pi using vendor tool and other library.
 * Complete by 27 October 2021
 * Cooper Myers, Jacob Neiheisel
-### Secen Segment/LED Display wiring
+### Seven Segment/LED Display wiring
 * Get the seven segment display/display wired to the Pi by breadboard.
 * Complete by 27 October 2021
 * Cooper Myers, Jacob Neiheisel
