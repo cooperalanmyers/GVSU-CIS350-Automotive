@@ -22,6 +22,10 @@
 * Get the seven segment display/display wired to the Pi by breadboard.
 * Complete by 27 October 2021
 * Cooper Myers, Jacob Neiheisel
+### Efficient Calibration
+* After placing system on a flat surface calibrating heading, pitch, and roll.
+* Complete by 15 November 2021
+* Cooper Myers, Jacob Neiheisel
 ### Magnetometer data to be computed right using data with algorithms
 * Being able to compute compass heading given all data.
 * Complete by 15 November 2021
