@@ -1,4 +1,4 @@
-# GVSU-CIS350-AUTOMOTIVE-2021-11-5
+# GVSU-CIS350-AUTOMOTIVE-2021-11-05
 
 Team name:
 Automotive
@@ -8,7 +8,7 @@ Cooper
 Jacob
 
 Date:
-2021-11-5
+2021-11-05
 
 Time:
 57:00 PM @ Henry Hall room 116.
