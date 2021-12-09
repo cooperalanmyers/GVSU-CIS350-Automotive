@@ -44,3 +44,11 @@
 	1. Compass shall operate in environments 50-80 degrees Farenheit.
 	2. Entire project shall be easily used with a single hand.
 	3. Compass shall be under ten pounds in total weight.
+
+# Artifact Hyperlinks
+- We imported various photos that contributed towards development.
+[Button](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/ButtonArtifact.jpg)
+[Display](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/DisplayArtifact.png)
+[Imu](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/IMUArtifact.png)
+[Math Library](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/MathLibraryArtifact.png)
+
