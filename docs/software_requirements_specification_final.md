@@ -36,9 +36,12 @@
 	1. Updates shall be pushed/pulled using GitHub.
 	2. Comments throughout code shall explain our logic accurately.
 	3. Code will follow proper readable syntax.
+	4. It shall be able to work with any Xsens IMU device.
+	5. It shall interface with additional operations. 
 2. Output Logistics
 	1. LCD display shall display all information needed.
 	3. Compass' user interface shall be simple to read.
+	4. Display shall fit in a 16x2 or larger dimension screen.
 3. Portability
 	1. Compass shall operate in environments 50-80 degrees Farenheit.
 	2. Entire project shall be easily used with a single hand.
