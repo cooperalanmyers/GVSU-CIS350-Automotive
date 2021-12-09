@@ -23,8 +23,7 @@
 	1. Tilt-compensated compass shall record roll (x).
 	2. Tilt-compensated compass shall record pitch (y).
 	3. Tilt-compensated compass shall record heading (z).
-4. Axis Logistics.
-	1. When tilted, tilt-compensated compass Z-axis shall alter in value.
+	4. When tilted, tilt-compensated compass Z-axis shall alter in value.
  
 # Non-Functional Requirements
 1. System Expectations
