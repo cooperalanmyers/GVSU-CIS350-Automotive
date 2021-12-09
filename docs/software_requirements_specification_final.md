@@ -5,7 +5,7 @@
 1. Overall System/Interface
 	1. Tilt-compensated compass shall record session data to a text file
 	2. Tilt-compensated compass shall be stabilized on a level surface.
-	3. Tilt-compensated compass shall have capability to record both compensated and uncompensated heading.
+	3. Tilt-compensated compass shall have capability to record compensated heading.
 2. Various Implementations
  	1. When button is pressed once LED screen shall begin displaying data.
  	2. When button is pressed twice data collection shall stop.
@@ -18,7 +18,7 @@
 	8. Feature shall display roll directions.
 	9. Program shall have the smallest runtime complexity possible.
 	10. Compass shall not crash when moved super fast.
-	11. LED shall light up when running.
+	11. LCD shall light up when running.
 3. Axis Diagnostics
 	1. Tilt-compensated compass shall record roll (x).
 	2. Tilt-compensated compass shall record pitch (y).
@@ -32,16 +32,13 @@
 	2. Calculation of values shall have a response time under 2 seconds.
 	3. Compass shall have 5v maximum of power.
 	4. Records shall be in a text file for easy parsing of information.
-	5. Separate user-input method shall be given conditions and output only the tilt-compensated value.
 2. Coding
-	1. Program shall be written in C++.
-	2. Updates shall be pushed/pulled using GitHub.
-	3. Comments throughout code shall explain our logic accurately.
-	4. Code will follow proper readable syntax.
+	1. Updates shall be pushed/pulled using GitHub.
+	2. Comments throughout code shall explain our logic accurately.
+	3. Code will follow proper readable syntax.
 2. Output Logistics
 	1. LCD display shall display all information needed.
-	2. When calibrating a message shall appear.
-	4. Compass' user interface shall be simple to read.
+	3. Compass' user interface shall be simple to read.
 3. Portability
 	1. Compass shall operate in environments 50-80 degrees Farenheit.
 	2. Entire project shall be easily used with a single hand.
