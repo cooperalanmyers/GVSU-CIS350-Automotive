@@ -47,8 +47,8 @@
 
 # Artifact Hyperlinks
 - We imported various photos that contributed towards development.
-[Button](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/ButtonArtifact.jpg)
-[Display](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/DisplayArtifact.png)
-[Imu](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/IMUArtifact.png)
-[Math Library](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/MathLibraryArtifact.png)
+1. [Button](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/ButtonArtifact.jpg)
+2. [Display](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/DisplayArtifact.png)
+3. [Imu](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/IMUArtifact.png)
+4. [Math Library](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/MathLibraryArtifact.png)
 
