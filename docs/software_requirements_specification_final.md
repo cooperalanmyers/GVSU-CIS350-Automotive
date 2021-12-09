@@ -3,23 +3,26 @@
 
 # Functional Requirements
 1. Overall System/Interface
-	1. Tilt-compensated compass shall record session data to an SD card or text file
+	1. Tilt-compensated compass shall record session data to a text file
 	2. Tilt-compensated compass shall be stabilized on a level surface.
 	3. Tilt-compensated compass shall have capability to record both compensated and uncompensated heading.
 2. Various Implementations
- 	1. When power is turned on/off LED screen shall accordingly coordinate on/off.
+ 	1. When button is pressed once LED screen shall begin displaying data.
+ 	2. When button is pressed twice data collection shall stop.
 	2. Our data shall react appropriately to the magnet.
 	3. Data recorded shall be delimited by spaces or commas.
 	4. When titled on x and y, and not z, reading shall be same/similar.
 	5. Language shall decode document and display info.
-	6. Feature shall show N E S W directions.
-	7. Program shall have a linear runtime.
-	8. Compass shall not crash when moved super fast.
-	9. LED shall light up when running.
+	6. Feature shall display header directions.
+	7. Feature shall display pitch directions.
+	8. Feature shall display roll directions.
+	9. Program shall have the smallest runtime complexity possible.
+	10. Compass shall not crash when moved super fast.
+	11. LED shall light up when running.
 3. Axis Diagnostics
-	1. Tilt-compensated compass shall record and display roll (x).
-	2. Tilt-compensated compass shall record and display pitch (y).
-	3. Tilt-compensated compass shall record and display heading (z).
+	1. Tilt-compensated compass shall record roll (x).
+	2. Tilt-compensated compass shall record pitch (y).
+	3. Tilt-compensated compass shall record heading (z).
 4. Axis Logistics.
 	1. When tilted, tilt-compensated compass Z-axis shall alter in value.
  
@@ -31,15 +34,15 @@
 	4. Records shall be in a text file for easy parsing of information.
 	5. Separate user-input method shall be given conditions and output only the tilt-compensated value.
 2. Coding
-	1. Program shall be written in Python.
+	1. Program shall be written in C++.
 	2. Updates shall be pushed/pulled using GitHub.
 	3. Comments throughout code shall explain our logic accurately.
+	4. Code will follow proper readable syntax.
 2. Output Logistics
-	1. Seven segment displays shall display numbers between 00 and 35.
+	1. LCD display shall display all information needed.
 	2. When calibrating a message shall appear.
-	3. When turned on a welcome message shall print.
 	4. Compass' user interface shall be simple to read.
 3. Portability
 	1. Compass shall operate in environments 50-80 degrees Farenheit.
 	2. Entire project shall be easily used with a single hand.
-	3. Compass shall be under five pounds in total weight.
+	3. Compass shall be under ten pounds in total weight.
