@@ -1,5 +1,6 @@
 # Overview
-- Here are the various funcitonal and requirements that the project seeks to accomplish. Whether relative to a subsystem having to do with tilt functionality, overall output functionality, or overall input functionality, requirements are laid out here for success measuring. Major points of highlight are being able to clearly understand what needs to be tilted, outputs as a result, and other functionality. One note of importance though is that this only has to do with what the software should do. Any hardware issues or needs are not part of this.
+- Here are the various funcitonal and non-functional requirements that our project accomplished. They are relative to a subsystem having to do with tilt functionality, overall output functionality, or overall input functionality. Requirements are laid out here for success measuring now that we are completed. Our major points of highlight are being clearly understanding the tilt mathematics, outputting to a display, and other functionality such as our button input. 
+
 # Functional Requirements
 1. Overall System/Interface
 	1. Tilt-compensated compass shall record session data to an SD card or text file
