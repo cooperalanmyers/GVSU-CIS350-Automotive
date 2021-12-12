@@ -14,6 +14,8 @@
 | FR3 | Tilt-compensated compass shall have capability to record compensated heading. | 
 
 ### Various Implementations
+| ID | Requirement |
+| :-------------: | :----------: |
 | FR4 | When button is pressed once LCD screen shall begin displaying data. |
 | FR5 | When button is pressed twice data collection shall stop. |
 | FR5 | Our data shall react appropriately to the magnet. | 
@@ -28,6 +30,8 @@
 | FR15 | LCD shall light up when running. | 
 
 ### Axis Diagnostics
+| ID | Requirement |
+| :-------------: | :----------: |
 | FR16 | Tilt-compensated compass shall record roll (x). |
 | FR17 | Tilt-compensated compass shall record pitch (y). |
 | FR18 | Tilt-compensated compass shall record heading (z). | 
