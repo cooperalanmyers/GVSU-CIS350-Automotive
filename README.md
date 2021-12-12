@@ -25,13 +25,13 @@ Our team is working on creating a tilt-compensated compass with a raspberry pi. 
 3. Open terminal window
 4. Go to the file location and run the following command: tar -xf MT_Software_Suite_linux-x86_2021.4.tar.gz
 5. cd into the newly created folder
-6. run this: ./mtsdk_linux-x86_2021.4.sh, type in sdk when prompted
-7. run cd sdk/examples/mtsdk/xda_public_cpp
-8. Use rm -r to removr example_mti_parse_logfile.cpp, example_mti_receive_data.cpp, and Makefile
+6. Run this: ./mtsdk_linux-x86_2021.4.sh, type in sdk when prompted
+7. Run cd sdk/examples/mtsdk/xda_public_cpp
+8. Use rm -r to remove example_mti_parse_logfile.cpp, example_mti_receive_data.cpp, and Makefile
 9. Clone our source code from GitHub to the current directory.
 10. Go into directory using cd GVSU-CIS350-Automotive/src
 11. Move all files in except for LCD file and README.md file using mv filename ../.. for each file
-12. Go up two directories usind ../..
+12. Go up two directories using ../..
 13. Run make command & let it compile
 14. Run ./example_recieve_data file
 15. Press button to start collecting data
