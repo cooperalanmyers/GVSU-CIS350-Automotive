@@ -37,32 +37,38 @@
 ### System Expectations
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR1 | <Non-Functional Requirement 1> |
-| NFR2 | < Non-Functional Requirement 2> |
-| NFR3 | < Non-Functional Requirement 3> |
-	1. Compass shall be quiet to use.
-	2. Calculation of values shall have a response time under 2 seconds.
-	3. Compass shall have 5v maximum of power.
-	4. Records shall be in a text file for easy parsing of information.
+| NFR1 | Compass shall be quiet to use. |
+| NFR2 | Calculation of values shall have a response time under 2 seconds. |
+| NFR3 | Compass shall have 5v maximum of power. |
+| NFR4 | Records shall be in a text file for easy parsing of information. |
+	
 ### Coding
-	1. Updates shall be pushed/pulled using GitHub.
-	2. Comments throughout code shall explain our logic accurately.
-	3. Code will follow proper readable syntax.
-	4. It shall be able to work with any Xsens IMU device.
-	5. It shall interface with additional operations. 
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR5 | Updates shall be pushed/pulled using GitHub. |
+| NFR6 | Comments throughout code shall explain our logic accurately. |
+| NFR7 | Code will follow proper readable syntax. |
+| NFR8 | It shall be able to work with any Xsens IMU device. |
+| NFR9 | It shall interface with additional operations. |
+
 ### Output Logistics
-	1. LCD display shall display all information needed.
-	3. Compass' user interface shall be simple to read.
-	4. Display shall fit in a 16x2 or larger dimension screen.
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR10 | LCD display shall display all information needed. |
+| NFR11 | Compass' user interface shall be simple to read. |
+| NFR12 | Display shall fit in a 16x2 or larger dimension screen. |
+
 ### Portability
-	1. Compass shall operate in environments 50-80 degrees Farenheit.
-	2. Entire project shall be easily used with a single hand.
-	3. Compass shall be under ten pounds in total weight.
+| ID | Requirement |
+| :-------------: | :----------: |
+| NFR13 | Compass shall operate in environments 50-80 degrees Farenheit. |
+| NFR14 | Entire project shall be easily used with a single hand. |
+| NFR15 | Compass shall be under ten pounds in total weight. |
 
 # Software Artifacts
 - We imported various photos that contributed towards development. The main purpose of having these imports is to make them easier to see how these were implemented in development. It is important that the requirements can be seen live. Whether or not the project is physically present, having that auditability is important. These artifacts also provide sample uses.
-1. [Button](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/ButtonArtifact.jpg)
-2. [Display](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/DisplayArtifact.png)
-3. [Imu](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/IMUArtifact.png)
-4. [Math Library](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/MathLibraryArtifact.png)
+* [Button](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/ButtonArtifact.jpg)
+* [Display](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/DisplayArtifact.png)
+* [Imu](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/IMUArtifact.png)
+* [Math Library](https://github.com/cooperalanmyers/GVSU-CIS350-Automotive/blob/master/artifacts/MathLibraryArtifact.png)
 
